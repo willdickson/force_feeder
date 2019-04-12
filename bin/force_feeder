@@ -1,0 +1,5 @@
+#!/usr/bin/python
+import sys
+from force_feeder import ForceFeeder
+feeder = ForceFeeder(sys.argv[1])
+feeder.run()
