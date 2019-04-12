@@ -2,8 +2,7 @@
 
 Force activated LED stimulus assay. Forces produced by fruits are detected
 using a micro force Sensor, e.g. by touching a beam. Forces above the user
-specified threshold trigger a light (fake food) stimulus.   
-
+specified threshold trigger a light (fake food) stimulus.
 
 ## Installation
 
